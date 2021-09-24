@@ -1,0 +1,59 @@
+.app-container {
+  background-color: #f9d423;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.toss-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 900;
+  color: #e2a139;
+}
+.paragraph {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 400;
+  color: #334155;
+}
+
+.toss-btn {
+  border: 0px;
+  background-color: #a35200;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+}
+
+.toss-coin {
+  width: 30%;
+}
+
+.result-container {
+  display: flex;
+}
+p {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 20px;
+}
+/* Hex: #e2a139
+Hex: #f9d423
+Hex: #ffffff
+Hex: #a35200
+Hex: #334155
+Hex: #475569 */
